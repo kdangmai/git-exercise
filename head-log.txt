@@ -1,0 +1,28 @@
+0000000000000000000000000000000000000000 0da239747119c9bdbc10db8af4bd108df6101355 K Dang Mai <kdangmai.official@gmail.com> 1755153016 +0700	clone: from https://github.com/kdangmai/git-exercise
+0da239747119c9bdbc10db8af4bd108df6101355 0da239747119c9bdbc10db8af4bd108df6101355 K Dang Mai <kdangmai.official@gmail.com> 1755153120 +0700	checkout: moving from master to feature/issue_138-kdangmai
+0da239747119c9bdbc10db8af4bd108df6101355 0b24e4602a2a9804859699c4b74b28e0e20a09c4 K Dang Mai <kdangmai.official@gmail.com> 1755153173 +0700	commit: Coding UI
+0b24e4602a2a9804859699c4b74b28e0e20a09c4 bce77a8307c57b4cd6de8c0a7453176a1284eacd K Dang Mai <kdangmai.official@gmail.com> 1755153204 +0700	commit: Coding Process
+bce77a8307c57b4cd6de8c0a7453176a1284eacd ba7808343e6ca9ee516265ee7bfb5801f04f7392 K Dang Mai <kdangmai.official@gmail.com> 1755153236 +0700	commit: Coding Unit Test
+ba7808343e6ca9ee516265ee7bfb5801f04f7392 869f1cfd2b7280a4524d927039dea2880d939192 K Dang Mai <kdangmai.official@gmail.com> 1755153335 +0700	commit (amend): K Dang Mai Coding Unit Test and Functional Test
+869f1cfd2b7280a4524d927039dea2880d939192 3b60dab2f9a70d3b7e1aa8df913b504e3a1ff427 K Dang Mai <kdangmai.official@gmail.com> 1755153409 +0700	commit: Fix Bug 1
+3b60dab2f9a70d3b7e1aa8df913b504e3a1ff427 6d3a996453c844ccff8cb43059a31b9a24be6967 K Dang Mai <kdangmai.official@gmail.com> 1755153428 +0700	commit: Fix Bug 2
+6d3a996453c844ccff8cb43059a31b9a24be6967 605a2519e10dc41178452cee22d83e4288636728 K Dang Mai <kdangmai.official@gmail.com> 1755153452 +0700	commit: Fix Bug 3
+605a2519e10dc41178452cee22d83e4288636728 ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 K Dang Mai <kdangmai.official@gmail.com> 1755153835 +0700	checkout: moving from feature/issue_138-kdangmai to upstream/feature/issue_00-List-Screen
+ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 ebc5a328d6ef24fb601ef5be3f77ae61e6f27561 K Dang Mai <kdangmai.official@gmail.com> 1755153865 +0700	checkout: moving from ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 to origin/feature/issue_138-kdangmai
+ebc5a328d6ef24fb601ef5be3f77ae61e6f27561 e23a19445f71cdf7c4f13ab77f256a3163d83f76 K Dang Mai <kdangmai.official@gmail.com> 1755153917 +0700	commit (amend): K Dang Mai Coding Unit Test and Functional Test
+e23a19445f71cdf7c4f13ab77f256a3163d83f76 ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 K Dang Mai <kdangmai.official@gmail.com> 1755153958 +0700	rebase (start): checkout upstream/feature/issue_00-List-Screen
+ec7e9ec1dba4731ec339fd4ebdded3e6897c84c9 5f6929438eb4be82cb63d30d6a60b74ad4fc1959 K Dang Mai <kdangmai.official@gmail.com> 1755153958 +0700	rebase (pick): Coding UI
+5f6929438eb4be82cb63d30d6a60b74ad4fc1959 cbf5aa21936d08778a22a3b4a9dac915bede2bf8 K Dang Mai <kdangmai.official@gmail.com> 1755153958 +0700	rebase (pick): Coding Process
+cbf5aa21936d08778a22a3b4a9dac915bede2bf8 53397a8d58d0bde847646a6111fd481de055c3cd K Dang Mai <kdangmai.official@gmail.com> 1755153958 +0700	rebase (pick): K Dang Mai Coding Unit Test and Functional Test
+53397a8d58d0bde847646a6111fd481de055c3cd 5dbd7b69b2b90ef01d5592d371bd5561612fc659 K Dang Mai <kdangmai.official@gmail.com> 1755154147 +0700	commit: Fix Bug 1
+5dbd7b69b2b90ef01d5592d371bd5561612fc659 68e49a875ce22990fb5508813602115cf022986d K Dang Mai <kdangmai.official@gmail.com> 1755154160 +0700	commit: Fix Bug 2
+68e49a875ce22990fb5508813602115cf022986d 06ce9562cf9d1e1f5ee9d45735e4dccfb67bb4cf K Dang Mai <kdangmai.official@gmail.com> 1755154185 +0700	commit: Fix Bug 3
+06ce9562cf9d1e1f5ee9d45735e4dccfb67bb4cf 5dbd7b69b2b90ef01d5592d371bd5561612fc659 K Dang Mai <kdangmai.official@gmail.com> 1755154230 +0700	rebase (start): checkout HEAD~3
+5dbd7b69b2b90ef01d5592d371bd5561612fc659 65e28e974e132099fcdbd3c06923590b4673f17e K Dang Mai <kdangmai.official@gmail.com> 1755154230 +0700	rebase (fixup): # This is a combination of 2 commits.
+65e28e974e132099fcdbd3c06923590b4673f17e 326d77d784edc1fc55372a1787531bc857b694a2 K Dang Mai <kdangmai.official@gmail.com> 1755154230 +0700	rebase (fixup): Fix Bug 1
+326d77d784edc1fc55372a1787531bc857b694a2 d91c25f7b3c6888c37c120a2895b02a8fa543c6d K Dang Mai <kdangmai.official@gmail.com> 1755154299 +0700	rebase (start): checkout upstream/feature/issue_00_Register-Screen
+d91c25f7b3c6888c37c120a2895b02a8fa543c6d 91fe102701c6be72e9c6cbba6d6b1f1e5fcd386d K Dang Mai <kdangmai.official@gmail.com> 1755154424 +0700	commit: Resolve conflict rebase feature/issue_00_Register-Screen
+91fe102701c6be72e9c6cbba6d6b1f1e5fcd386d 7e59c266a12fb7926571734cf2bebb72d1ad4da3 K Dang Mai <kdangmai.official@gmail.com> 1755154675 +0700	rebase (continue): Fix Bug
+7e59c266a12fb7926571734cf2bebb72d1ad4da3 e6c7f99f38c3b22beedb41632bef2c5ed59245b6 K Dang Mai <kdangmai.official@gmail.com> 1755154727 +0700	checkout: moving from 7e59c266a12fb7926571734cf2bebb72d1ad4da3 to upstream/feature/issue_00-Update-Register-Screen
+e6c7f99f38c3b22beedb41632bef2c5ed59245b6 605a2519e10dc41178452cee22d83e4288636728 K Dang Mai <kdangmai.official@gmail.com> 1755154820 +0700	checkout: moving from e6c7f99f38c3b22beedb41632bef2c5ed59245b6 to feature/issue_138-kdangmai
+605a2519e10dc41178452cee22d83e4288636728 cde00a4edb9f5013520e01c0d465e4600bc45b90 K Dang Mai <kdangmai.official@gmail.com> 1755154856 +0700	cherry-pick: #00 Add new screen register 2
